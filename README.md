@@ -18,7 +18,6 @@ O projeto ja possui o servidor express, dependencias de padronização de códig
 - Para subir o servidor execute o comando 'yarn dev:server'
 - A aplicação será servida em http://localhost:3333.
 
-
-Desenvolvido por Alex Carmo
-Analista de Sistema
-alex.carmo91@gmail.com
+## Desenvolvido por Alex Carmo
+- Analista de Sistema
+- Contato: alex.carmo91@gmail.com
